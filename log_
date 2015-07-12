@@ -1,0 +1,510 @@
+source/includes/apiargs/method-db.eval-param.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-update-field-updates.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-traceExceptions.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-Bulk.find.update-param.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-sh.removeTagRange-param.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod.exe-servicePassword.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongorestore-sslCAFile.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongostat-host.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-db.getCollection-param.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/3.0-upgrade-sharded-cluster.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-cursor.min-param.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-security-release-note-alerts.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/create-role-mongostat.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongodump-ipv6.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-net.unixDomainSocket.pathPrefix.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-db.collection.createIndex-param.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/method-plan-cache.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.tocs.tasks:wrote toc table to: /tmp/docs/build/master/source/includes/toc/table-method-rs.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/sharded-cluster-architectures.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-crud-tutorials.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongotop-gssapiServiceName.rst
+INFO:giza.content.release.tasks:wrote release content: /tmp/docs/build/master/source/includes/release/copy-release-linux-i686.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-db.collection.createIndex-options-2dsphere.rst INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/additional-resources-backup.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-cursor.batchSize-param.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongo-verbose.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-db.collection.createIndex-options-text.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/crud-tutorials.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-wiredTigerJournalCompressor.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-planCacheListQueryShapes-field.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-security.authSchemaVersion.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoperf-<jsonconfig>.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongos-auditFilter.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/getting-started-index.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/aggregation-pipeline.rst
+INFO:giza.content.tocs.tasks:wrote toc table to: /tmp/docs/build/master/source/includes/toc/table-operator-query-logical.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-replication.localPingThresholdMs.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-keyFile.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/backup-sharded-cluster-with-snapshots.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-storage.mmapv1.journal.debugFlags.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-Bulk.insert-param.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-bind_ip.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongotop-sslCRLFile.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/adjust-replica-set-member-priority.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongotop-sslFIPSMode.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-bsondump-<bsonFilename>.rst
+INFO:giza.content.release.tasks:wrote release content: /tmp/docs/build/master/source/includes/release/curl-release-linux-x86_64.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/getting-started-insert-prereq.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-db.collection.findAndModify-param.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-security-tutorials-network.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongostat-sslPEMKeyFile.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/operator-query-evaluation.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-source.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-db.collection.count-param.rst
+INFO:giza.content.release.tasks:wrote release content: /tmp/docs/build/master/source/includes/release/pin-repo-to-version-deb.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/change-own-password-and-custom-data.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoexport-version.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongooplog-sslPEMKeyFile.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-operator-landing.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-bsondump-help.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongorestore-version.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-objcheck.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoexport-collection.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-syncdelay.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/install-verify-files.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-net.http.RESTInterfaceEnabled.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoimport-upsertFields.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-sh.splitFind-param.rst
+INFO:giza.content.images.views:generated include file build/master/source/images/crud-annotated-mongodb-update.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/replace-disabled-config-server.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-storage.mmapv1.quota.maxFilesPerDB.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/monitor-with-snmp.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongorestore-numInsertionWorkersPerCollection.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/method-rs.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongofiles-username.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongotop-password.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-spec-administration-concepts.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongos-noscripting.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-sslAllowInvalidCertificates.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-auditFormat.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/security-tutorials-network.rst
+INFO:giza.content.tocs.tasks:wrote toc table to: /tmp/docs/build/master/source/includes/toc/table-aggregation-projection-expressions.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/enable-authentication-in-sharded-cluster.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-indexes-concepts-types.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/getting-started-remove.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-sleep-field.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-administration-core-strategy.rst
+INFO:giza.content.tocs.tasks:wrote toc table to: /tmp/docs/build/master/source/includes/toc/table-command-aggregation.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongos.exe-servicePassword.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongodump-dumpDbUsersAndRoles.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-repairpath.rst
+INFO:giza.content.images.views:generated include file build/master/source/images/crud-query-stages.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-db.createRole-role-field.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-net.ssl.PEMKeyFile.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-grantRolesToUser-field.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-systemLog.logRotate.rst
+INFO:giza.content.table:rebuilt rendered table output for /tmp/docs/build/master/source/includes/table-helpers-to-javascript.yaml
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-sh.waitForBalancer-param.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-db.copyDatabase-param.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-addShard-field.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/convert-replica-set-add-shards.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-repair.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongorestore-gssapiServiceName.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/fact-3.0-tools-drop-dbpath-support-mongoexport.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/operator-query-geospatial.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.images.views:generated include file build/master/source/images/sharded-cluster-scatter-gather-query.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-pidfilepath.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongos-setParameter.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-replica-set-processes.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/additional-resources-monitoring.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/uninstall-mongodb-enterprise-on-redhat.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-security.authenticationMechanisms.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/additional-resources-add-user-administrator.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/indexes-tutorial-management.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongos-pidfilepath.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/crud-concepts.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/wt-fsync-lock-compatibility-command.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongostat-version.rst
+INFO:giza.content.table:rebuilt rendered table output for /tmp/docs/build/master/source/includes/table-sql-to-mongo-insert-examples.yaml
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/admonition-js-prevalence-methods.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-aggregation-core.rst
+INFO:giza.hash:regenerated /tmp/docs/build/master/source/includes/hash.rst with new commit hash: a60fee4c50
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/perform-two-phase-commit-transaction.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongodump-sslAllowInvalidCertificates.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongos-sslFIPSMode.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongosniff-<port>.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/method-database.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-spec-indexes-landing.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/aggregation-literal-expressions.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/connect-with-admin-privileges.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoimport-collection.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoimport-gssapiHostName.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/getting-started-aggregation-prereq.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/2.6-upgrade-downgrade-procedure.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.table:rebuilt rendered table output for /tmp/docs/build/master/source/includes/table-linux-kernel-version-production.yaml
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/add-admin-user.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongostat-ipv6.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-nounixsocket.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/indexes-concepts-mechanics.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/replica-set-high-availability.rst
+INFO:giza.content.release.tasks:wrote release content: /tmp/docs/build/master/source/includes/release/pin-version-outro-org.rst
+INFO:giza.content.release.tasks:wrote release content: /tmp/docs/build/master/source/includes/release/pin-repo-to-version-yum.rst
+INFO:giza.content.robots:regenerated /tmp/docs/build/public/master/robots.txt file.
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/perform-two-phase-commit-rollback.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-upgrade.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-snmp.master.rst
+INFO:giza.content.images.views:generated include file build/master/source/images/crud-annotated-sql-delete.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/sharded-cluster-data.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/3.0-downgrade-sharded-cluster.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/command-hashBSONElement-field.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongotop-version.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongooplog-gssapiHostName.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongofiles-quiet.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-administration-core-scripting.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-storage.wiredTiger.engineConfig.directoryForIndexes.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/install-mongodb-on-linux-32.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-connect-param.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoexport-username.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoexport-sslPEMKeyFile.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-rolesInfo-field.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongotop-json.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-administration-routine.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-replica-set-high-availability.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-db.cloneCollection-param.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongotop-quiet.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-repairDatabase-field.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/fact-agg-comparison-expression-lte.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-db.createUser-user-doc-param.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongorestore-restoreDbUsersAndRoles.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/fact-copydb-behavior-cmd-copydb.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-auditLog.path.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongos-sslPEMKeyPassword.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/data-models-applications.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/replica-set-member-configuration.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.tocs.tasks:wrote toc table to: /tmp/docs/build/master/source/includes/toc/table-spec-crud-collection-methods.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoimport-jsonArray.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoimport-authenticationDatabase.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/additional-resources-optimization.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.release.tasks:wrote release content: /tmp/docs/build/master/source/includes/release/copy-release-osx-x86_64.rst
+INFO:giza.content.tocs.tasks:wrote toc table to: /tmp/docs/build/master/source/includes/toc/table-operator-query-element.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/indexes-tutorial-creation.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-spec-aggregation-reference.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-systemLog.component.replication.verbosity.rst
+
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoimport-authenticationMechanism.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-syslog.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-spec-data-model-examples-landing.rst
+INFO:giza.content.tocs.tasks:wrote toc table to: /tmp/docs/build/master/source/includes/toc/table-method-collection.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-fsync-field.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-dropRole-field.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-processManagement.windowsService.description.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongorestore-keepIndexVersion.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.images.views:generated include file build/master/source/images/replica-set-only-seven-voting-members.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-auditDestination.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-updateRole-field.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongooplog-authenticationMechanism.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod.exe-serviceDescription.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-sh.status-param.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongodump-sslCRLFile.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-setParameter.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/access-eval-applyOps.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-wiredTigerCollectionConfigString.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-sslFIPSMode.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/aggregation-group.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-planCacheClearFilters-field.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongotop-port.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/security-prereq-configure-ssl.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/example-server-status-projection-db.serverStatus().rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-slavedelay.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/fact-agg-top-level-expressions-setExpression.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongooplog-password.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-PlanCache.clearPlansByQuery-param.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongotop-username.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-UUID-param.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-storage.mmapv1.quota.enforced.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/fact-agg-boolean-not.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/generate-key-file.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/install-mongodb-on-linux.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/install-mongodb-enterprise-on-windows.rst
+INFO:giza.content.tocs.tasks:wrote toc table to: /tmp/docs/build/master/source/includes/toc/table-command-internal.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-security.enableLocalhostAuthBypass.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/install-on-linux-landing.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/command-replSetSyncFrom-field.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-md5sumFile-param.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/uninstall-mongodb-enterprise-on-debian.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-configureFailPoint-field.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-db.collection.createIndex-options-geohaystack.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongostat-<sleeptime>.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-net.ssl.FIPSMode.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongorestore-sslPEMKeyFile.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongofiles-local.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-logappend.rst
+INFO:giza.content.tocs.tasks:wrote toc table to: /tmp/docs/build/master/source/includes/toc/table-spec-indexes-methods.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongos-nohttpinterface.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/aggregation-reference.rst
+INFO:giza.content.images.views:generated include file build/master/source/images/replica-set-four-members-add-arbiter.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/getting-started-query-all.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-storage.mmapv1.smallFiles.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-administration-landing.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-indexes-tutorial-creation.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-systemLog.component.storage.verbosity.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/crud-core-landing.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-nssize.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-data-modeling-reference.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-sh.enableBalancing-param.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/install-mongodb-on-red-hat.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/admonition-js-prevalence-group.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongo-username.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoimport-file.rst
+INFO:giza.content.images.views:generated include file build/master/source/images/data-model-example-nested-set.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongostat-sslPEMKeyPassword.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-replication.secondaryIndexPrefetch.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/operator-update-field.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/add-user-to-database.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongodump-excludeCollectionsWithPrefix.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongos-nounixsocket.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/method-subprocess.rst
+INFO:giza.content.tocs.tasks:wrote toc table to: /tmp/docs/build/master/source/includes/toc/table-spec-bulk-methods.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongos-jsonp.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-net.http.port.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-indexes-concepts-properties.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-spec-crud-landing.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongo-version.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/crud-reference.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.release.tasks:wrote release content: /tmp/docs/build/master/source/includes/release/pin-repo-suse-lock-enterprise.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/administration-reference.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/access-eval-copyTo.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongooplog-sslAllowInvalidCertificates.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/fact-agg-comparison-expression-lt.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/sharded-cluster-deployment.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-sharding.autoSplit.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongorestore-quiet.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-shutdown.rst
+INFO:giza.content.table:rebuilt rendered table output for /tmp/docs/build/master/source/includes/table-sql-to-mongo-delete-examples.yaml
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongodump-version.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/sharding-reference.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-version.rst
+INFO:giza.content.release.tasks:wrote release content: /tmp/docs/build/master/source/includes/release/pin-version-intro.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-filePermissions.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-create-field.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-net.ssl.CRLFile.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/db.getLastError-behavior.rst
+INFO:giza.content.tocs.tasks:wrote toc table to: /tmp/docs/build/master/source/includes/toc/table-operator-query-evaluation.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/clear-jumbo-flag-preferred.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-Bulk.find.updateOne-param.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/authenticate-through-ldap-active-directory.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoimport-sslPEMKeyFile.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongostat-noheaders.rst
+INFO:giza.content.images.views:generated include file build/master/source/images/map-reduce.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-net.http.enabled.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-explain-field.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/fact-agg-boolean-allElementsTrue.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-spec-sharding-core-landing.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-removeFile-param.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/replica-set-reference.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/indexes-landing.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-systemLog.component.command.verbosity.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-replica-set-reference.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-security-concepts-access-control.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongos.exe-serviceDescription.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoimport-maintainInsertionOrder.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-storage.syncPeriodSecs.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/command-moveChunk-field.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-revokeRolesFromUser-field.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-net.ssl.sslOnNormalPorts.rst
+INFO:giza.content.table:rebuilt rendered table output for /tmp/docs/build/master/source/includes/table-default-mongodb-port.yaml
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/aggregation-arithmetic.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongostat-port.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/method-sh.splitAt-param.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-spec-administration-landing.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoexport-authenticationMechanism.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/command-sharding.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoimport-port.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-fork.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/fact-aggregation-accumulator-max.rst
+INFO:giza.content.table:rebuilt rendered table output for /tmp/docs/build/master/source/includes/table-sql-to-agg-examples.yaml
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/install-set-up-dbpath.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/operator-update-array.rst
+ERROR:giza.content.images:dependency INKSCAPE not installed. not building images.
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongoimport-ignoreBlanks.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-sslOnNormalPorts.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongofiles-ssl.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongorestore-drop.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/installation-enterprise-landing.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-bsondump-quiet.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-logRotate.rst
+INFO:giza.content.tocs.tasks:wrote toc dfnlist to: /tmp/docs/build/master/source/includes/toc/dfn-list-sharded-cluster-data.rst
+INFO:giza.content.steps.tasks:wrote steps to: /tmp/docs/build/master/source/includes/steps/getting-started-index-unique.rst
+INFO:giza.content.apiargs.tasks:wrote apiarg table to: /tmp/docs/build/master/source/includes/apiargs/dbcommand-grantRolesToRole-field.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongorestore-maintainInsertionOrder.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongos.exe-remove.rst
+INFO:giza.content.tocs.tasks:wrote toctree to: /tmp/docs/build/master/source/includes/toc/method-connection.rst
+INFO:giza.content.images.views:generated include file build/master/source/images/crud-annotated-mongodb-find.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/option-mongod-sslPEMKeyFile.rst
+INFO:giza.content.extract.tasks:wrote extract file: /tmp/docs/build/master/source/includes/extracts/db.getLastError-definition.rst
+INFO:giza.content.options.tasks:wrote options file: /tmp/docs/build/master/source/includes/option/setting-conf-storage.wiredTiger.engineConfig.journalCompressor.rst
+INFO:giza.tools.timing:time elapsed for "resolve dependency graph" was: 28.897192955
+INFO:giza.content.dependencies:bumped timestamps for 1184 files
+INFO:giza.tools.timing:time elapsed for "dependency updates" was: 4.10763096809
+INFO:giza.content.dependencies:wrote dependency cache to: /tmp/docs/build/master/dependencies-manual.json
+INFO:giza.content.post.sphinx:adding 1 finalizing tasks for html build
+INFO:giza.operations.sphinx:adding builder job for html (None, None)
+INFO:giza.operations.sphinx:sphinx build configured, running the build now.
+INFO:giza.content.sphinx:created directory "/tmp/docs/build/master/html" for sphinx builder html
+INFO:giza.content.sphinx:starting sphinx build html
+INFO:giza.content.sphinx:running with parallelized sphinx processes
+INFO:giza.tools.timing:time elapsed for "running sphinx build for: html, None,
+ None" was: 17586.6108429
+INFO:giza.content.sphinx:completed html sphinx build for manual.manual.master (0)
+INFO:giza.files:created tarball: /tmp/docs/build/public/master/manual-master.tar.gz
+INFO:giza.operations.sphinx:sphinx build complete.
+INFO:giza.operations.sphinx:builds finalized. sphinx output and errors to follow
+INFO:giza.content.sphinx:sphinx builder has 114 lines of output, processed from 330
+source/images/data-model-tree.rst:None: WARNING: image file not readable: images/data-model-tree-print.png
+source/images/data-model-tree.rst:None: WARNING: image file not readable: images/data-model-tree.png
+source/images/aggregation-pipeline.rst:None: WARNING: image file not readable:
+ images/aggregation-pipeline-print.png
+source/images/aggregation-pipeline.rst:None: WARNING: image file not readable:
+ images/aggregation-pipeline.png
+source/images/map-reduce.rst:None: WARNING: image file not readable: images/map-reduce-print.png
+source/images/map-reduce.rst:None: WARNING: image file not readable: images/map-reduce.png
+source/images/distinct.rst:None: WARNING: image file not readable: images/distinct-print.png
+source/images/distinct.rst:None: WARNING: image file not readable: images/distinct.png
+source/images/crud-annotated-document.rst:None: WARNING: image file not readable: images/crud-annotated-document-print.png
+source/images/crud-annotated-document.rst:None: WARNING: image file not readable: images/crud-annotated-document.png
+source/images/crud-annotated-collection.rst:None: WARNING: image file not readable: images/crud-annotated-collection-print.png
+source/images/crud-annotated-collection.rst:None: WARNING: image file not readable: images/crud-annotated-collection.png
+source/images/crud-query-stages.rst:None: WARNING: image file not readable: images/crud-query-stages-print.png
+source/images/crud-query-stages.rst:None: WARNING: image file not readable: images/crud-query-stages.png
+source/images/crud-insert-stages.rst:None: WARNING: image file not readable: images/crud-insert-stages-print.png
+source/images/crud-insert-stages.rst:None: WARNING: image file not readable: images/crud-insert-stages.png
+source/images/data-model-denormalized.rst:None: WARNING: image file not readable: images/data-model-denormalized-print.png
+source/images/data-model-denormalized.rst:None: WARNING: image file not readable: images/data-model-denormalized.png
+source/images/data-model-normalized.rst:None: WARNING: image file not readable: images/data-model-normalized-print.png
+source/images/data-model-normalized.rst:None: WARNING: image file not readable: images/data-model-normalized.png
+source/images/sharded-cluster.rst:None: WARNING: image file not readable: images/sharded-cluster-print.png
+source/images/sharded-cluster.rst:None: WARNING: image file not readable: images/sharded-cluster.png
+source/images/sharded-cluster-targeted-query.rst:None: WARNING: image file not
+ readable: images/sharded-cluster-targeted-query-print.png
+source/images/sharded-cluster-targeted-query.rst:None: WARNING: image file not
+ readable: images/sharded-cluster-targeted-query.png
+source/images/sharded-cluster-scatter-gather-query.rst:None: WARNING: image file not readable: images/sharded-cluster-scatter-gather-query-print.png
+source/images/sharded-cluster-scatter-gather-query.rst:None: WARNING: image file not readable: images/sharded-cluster-scatter-gather-query.png
+source/images/replica-set-read-preference.rst:None: WARNING: image file not readable: images/replica-set-read-preference-print.png
+source/images/replica-set-read-preference.rst:None: WARNING: image file not readable: images/replica-set-read-preference.png
+source/images/sharding-range-based.rst:None: WARNING: image file not readable:
+ images/sharding-range-based-print.png
+source/images/sharding-range-based.rst:None: WARNING: image file not readable:
+ images/sharding-range-based.png
+source/images/replica-set-read-write-operations-primary.rst:None: WARNING: image file not readable: images/replica-set-read-write-operations-primary-print.png
+source/images/replica-set-read-write-operations-primary.rst:None: WARNING: image file not readable: images/replica-set-read-write-operations-primary.png
+source/images/crud-write-concern-w2.rst:None: WARNING: image file not readable: images/crud-write-concern-w2-print.png
+source/images/crud-write-concern-w2.rst:None: WARNING: image file not readable: images/crud-write-concern-w2.png
+source/images/index-compound-key.rst:None: WARNING: image file not readable: images/index-compound-key-print.png
+source/images/index-compound-key.rst:None: WARNING: image file not readable: images/index-compound-key.png
+source/images/index-multikey.rst:None: WARNING: image file not readable: images/index-multikey-print.png
+source/images/index-multikey.rst:None: WARNING: image file not readable: images/index-multikey.png
+source/images/index-ascending.rst:None: WARNING: image file not readable: images/index-ascending-print.png
+source/images/index-ascending.rst:None: WARNING: image file not readable: images/index-ascending.png
+source/images/index-for-sort.rst:None: WARNING: image file not readable: images/index-for-sort-print.png
+source/images/index-for-sort.rst:None: WARNING: image file not readable: images/index-for-sort.png
+source/images/index-for-covered-query.rst:None: WARNING: image file not readable: images/index-for-covered-query-print.png
+source/images/index-for-covered-query.rst:None: WARNING: image file not readable: images/index-for-covered-query.png
+source/images/crud-annotated-mongodb-find.rst:None: WARNING: image file not readable: images/crud-annotated-mongodb-find-print.png
+source/images/crud-annotated-mongodb-find.rst:None: WARNING: image file not readable: images/crud-annotated-mongodb-find.png
+source/images/crud-annotated-sql-select.rst:None: WARNING: image file not readable: images/crud-annotated-sql-select-print.png
+source/images/crud-annotated-sql-select.rst:None: WARNING: image file not readable: images/crud-annotated-sql-select.png
+source/images/crud-query-w-projection-stages.rst:None: WARNING: image file not
+ readable: images/crud-query-w-projection-stages-print.png
+source/images/crud-query-w-projection-stages.rst:None: WARNING: image file not
+ readable: images/crud-query-w-projection-stages.png
+source/images/replica-set-four-members-add-arbiter.rst:None: WARNING: image file not readable: images/replica-set-four-members-add-arbiter-print.png
+source/images/replica-set-four-members-add-arbiter.rst:None: WARNING: image file not readable: images/replica-set-four-members-add-arbiter.png
+source/images/replica-set-only-seven-voting-members.rst:None: WARNING: image file not readable: images/replica-set-only-seven-voting-members-print.png
+source/images/replica-set-only-seven-voting-members.rst:None: WARNING: image file not readable: images/replica-set-only-seven-voting-members.png
+source/images/replica-set-three-data-centers.rst:None: WARNING: image file not
+ readable: images/replica-set-three-data-centers-print.png
+source/images/replica-set-three-data-centers.rst:None: WARNING: image file not
+ readable: images/replica-set-three-data-centers.png
+source/images/replica-set-three-members-geographically-distributed.rst:None: WARNING: image file not readable: images/replica-set-three-members-geographically-distributed-print.png
+source/images/replica-set-three-members-geographically-distributed.rst:None: WARNING: image file not readable: images/replica-set-three-members-geographically-distributed.png
+source/images/replica-set-primary-with-two-secondaries.rst:None: WARNING: image file not readable: images/replica-set-primary-with-two-secondaries-print.png
+
+source/images/replica-set-primary-with-two-secondaries.rst:None: WARNING: image file not readable: images/replica-set-primary-with-two-secondaries.png
+source/images/replica-set-trigger-election.rst:None: WARNING: image file not readable: images/replica-set-trigger-election-print.png
+source/images/replica-set-trigger-election.rst:None: WARNING: image file not readable: images/replica-set-trigger-election.png
+source/images/replica-set-primary-with-secondary-and-arbiter.rst:None: WARNING: image file not readable: images/replica-set-primary-with-secondary-and-arbiter-print.png
+source/images/replica-set-primary-with-secondary-and-arbiter.rst:None: WARNING: image file not readable: images/replica-set-primary-with-secondary-and-arbiter.png
+source/images/replica-set-w-arbiter-trigger-election.rst:None: WARNING: image file not readable: images/replica-set-w-arbiter-trigger-election-print.png
+source/images/replica-set-w-arbiter-trigger-election.rst:None: WARNING: image file not readable: images/replica-set-w-arbiter-trigger-election.png
+source/images/replica-set-delayed-member.rst:None: WARNING: image file not readable: images/replica-set-delayed-member-print.png
+source/images/replica-set-delayed-member.rst:None: WARNING: image file not readable: images/replica-set-delayed-member.png
+source/images/replica-set-hidden-member.rst:None: WARNING: image file not readable: images/replica-set-hidden-member-print.png
+source/images/replica-set-hidden-member.rst:None: WARNING: image file not readable: images/replica-set-hidden-member.png
+source/images/sharded-cluster-production-architecture.rst:None: WARNING: image
+ file not readable: images/sharded-cluster-production-architecture-print.png
+source/images/sharded-cluster-production-architecture.rst:None: WARNING: image
+ file not readable: images/sharded-cluster-production-architecture.png
+source/images/sharded-cluster-test-architecture.rst:None: WARNING: image file not readable: images/sharded-cluster-test-architecture-print.png
+source/images/sharded-cluster-test-architecture.rst:None: WARNING: image file not readable: images/sharded-cluster-test-architecture.png
+source/images/sharded-cluster-primary-shard.rst:None: WARNING: image file not readable: images/sharded-cluster-primary-shard-print.png
+source/images/sharded-cluster-primary-shard.rst:None: WARNING: image file not readable: images/sharded-cluster-primary-shard.png
+source/images/sharded-cluster-mixed.rst:None: WARNING: image file not readable: images/sharded-cluster-mixed-print.png
+source/images/sharded-cluster-mixed.rst:None: WARNING: image file not readable: images/sharded-cluster-mixed.png
+source/images/sharding-migrating.rst:None: WARNING: image file not readable: images/sharding-migrating-print.png
+source/images/sharding-migrating.rst:None: WARNING: image file not readable: images/sharding-migrating.png
+source/images/sharding-splitting.rst:None: WARNING: image file not readable: images/sharding-splitting-print.png
+source/images/sharding-splitting.rst:None: WARNING: image file not readable: images/sharding-splitting.png
+source/images/sharded-collection.rst:None: WARNING: image file not readable: images/sharded-collection-print.png
+source/images/sharded-collection.rst:None: WARNING: image file not readable: images/sharded-collection.png
+source/images/sharding-hash-based.rst:None: WARNING: image file not readable: images/sharding-hash-based-print.png
+source/images/sharding-hash-based.rst:None: WARNING: image file not readable: images/sharding-hash-based.png
+source/images/crud-write-concern-unack.rst:None: WARNING: image file not readable: images/crud-write-concern-unack-print.png
+source/images/crud-write-concern-unack.rst:None: WARNING: image file not readable: images/crud-write-concern-unack.png
+source/images/crud-write-concern-ack.rst:None: WARNING: image file not readable: images/crud-write-concern-ack-print.png
+source/images/crud-write-concern-ack.rst:None: WARNING: image file not readable: images/crud-write-concern-ack.png
+source/images/crud-write-concern-journal.rst:None: WARNING: image file not readable: images/crud-write-concern-journal-print.png
+source/images/crud-write-concern-journal.rst:None: WARNING: image file not readable: images/crud-write-concern-journal.png
+source/images/crud-annotated-mongodb-insert.rst:None: WARNING: image file not readable: images/crud-annotated-mongodb-insert-print.png
+source/images/crud-annotated-mongodb-insert.rst:None: WARNING: image file not readable: images/crud-annotated-mongodb-insert.png
+source/images/crud-annotated-sql-insert.rst:None: WARNING: image file not readable: images/crud-annotated-sql-insert-print.png
+source/images/crud-annotated-sql-insert.rst:None: WARNING: image file not readable: images/crud-annotated-sql-insert.png
+source/images/crud-annotated-mongodb-update.rst:None: WARNING: image file not readable: images/crud-annotated-mongodb-update-print.png
+source/images/crud-annotated-mongodb-update.rst:None: WARNING: image file not readable: images/crud-annotated-mongodb-update.png
+source/images/crud-annotated-sql-update.rst:None: WARNING: image file not readable: images/crud-annotated-sql-update-print.png
+source/images/crud-annotated-sql-update.rst:None: WARNING: image file not readable: images/crud-annotated-sql-update.png
+source/images/crud-annotated-mongodb-remove.rst:None: WARNING: image file not readable: images/crud-annotated-mongodb-remove-print.png
+source/images/crud-annotated-mongodb-remove.rst:None: WARNING: image file not readable: images/crud-annotated-mongodb-remove.png
+source/images/crud-annotated-sql-delete.rst:None: WARNING: image file not readable: images/crud-annotated-sql-delete-print.png
+source/images/crud-annotated-sql-delete.rst:None: WARNING: image file not readable: images/crud-annotated-sql-delete.png
+source/images/sharding-cleanup-orphaned.rst:None: WARNING: image file not readable: images/sharding-cleanup-orphaned-print.png
+source/images/sharding-cleanup-orphaned.rst:None: WARNING: image file not readable: images/sharding-cleanup-orphaned.png
+source/images/index-2dsphere-polygon-with-ring.rst:None: WARNING: image file not readable: images/index-2dsphere-polygon-with-ring-print.png
+source/images/index-2dsphere-polygon-with-ring.rst:None: WARNING: image file not readable: images/index-2dsphere-polygon-with-ring.png
+source/images/redact-security-architecture.rst:None: WARNING: image file not readable: images/redact-security-architecture-print.png
+source/images/redact-security-architecture.rst:None: WARNING: image file not readable: images/redact-security-architecture.png
+source/images/data-model-example-nested-set.rst:None: WARNING: image file not readable: images/data-model-example-nested-set-print.png
+source/images/data-model-example-nested-set.rst:None: WARNING: image file not readable: images/data-model-example-nested-set.png
+WARNING: logo file '.static/logo-mongodb.png' does not exist
